@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<usuario id="1" email="novo@x.com" apelido="Publicador 1" />
+	<usuario id="2" email="sem_apelido@x.com" apelido="[null]" />
+	<publicacao id="1" conteudo="Minha Primeira Publicação" usuario_id="1" data="2015-09-14 14:00:00" />
+	<publicacao id="2" conteudo="Minha Segunda Publicação" usuario_id="1" data="2015-09-15 10:00:00" />
+</dataset>
